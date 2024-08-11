@@ -1,3 +1,20 @@
 <resources>
+    <string name="launch_name">Movies Corner</string>
     <string name="app_name">Assignment3</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="remove_from_favourites">Remove from Favourites</string>
+    <string name="add_to_favourites">Add to Favorites</string>
+    <string name="year">"Year : "</string>
+    <string name="released">"Released : "</string>1
+    <string name="runtime">"Runtime : "</string>1
+    <string name="genre">"Genre : "</string>1
+    <string name="director">"Director : "</string>1
+    <string name="writer">"Writer : "</string>1
+    <string name="actors">"Actors : "</string>1
+    <string name="plot">"Story : "</string>1
+    <string name="language">"Language : "</string>1
+    <string name="country">"Country : "</string>1
+    <string name="imdb_votes">"IMDb Votes : "</string>1
+    <string name="imdb_rating">"IMDb Rating : "</string>1
+    <string name="nrotten_tomatoes">"\nRotten Tomatoes : "</string>1
 </resources>
